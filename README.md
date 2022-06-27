@@ -4,7 +4,7 @@
 <p> Bachelor’s in Computer Science </p>
 </a>
 <br>
-&emsp Acest
+	Acest
 <br>
 <ul>
 	<li>:open_file_folder: Semestrul 1 - Semester 1
