@@ -4,7 +4,7 @@
 		<ul>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Algebră  
+				  2️⃣  Algebră  
 				</a>
 			</li>
 			<li>
@@ -14,17 +14,17 @@
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Arhitectura Sistemelor de Calcul 
+				  🦖  Arhitectura Sistemelor de Calcul 
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Fundamentele Programării
+				  🐍  Fundamentele Programării
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Logică Computațională
+				  💤  Logică Computațională
 				</a>
 			</li>
 		</ul>
