@@ -1,9 +1,9 @@
 # UBB
 <ul>
-	<li>:open_file_folder: Semester 1
+	<li>:open_file_folder: Semestrul 1
 		<ul>
 			<li>
-				<a href=""> 
+				<a href="https://github.com/Pufcorina/Algebra"> 
 				  :clubs:  Algebră liniară 
 				</a>
 			</li>
@@ -27,8 +27,30 @@
 				  :clubs:  Logică Computațională
 				</a>
 			</li>
-		
 		</ul>
 	</li>
- 
+		<li>:open_file_folder: Semestrul 2
+		<ul>
+			<li>
+				<a href="https://github.com/Pufcorina/Algebra"> 
+				  :clubs:  Algoritmica Grafurilor 
+				</a>
+			</li>
+			<li>
+				<a href="https://github.com/Pufcorina/Algebra"> 
+				  :clubs:  Programare Orientată Obiect(OOP)
+				</a>
+			</li>
+			<li>
+				<a href="https://github.com/Pufcorina/Algebra"> 
+				  :clubs:  Sisteme Dinamice 
+				</a>
+			</li>
+			<li>
+				<a href="https://github.com/Pufcorina/Algebra"> 
+				  :clubs:  Structuri de date și algoritmi
+				</a>
+			</li>
+		</ul>
+	</li>
 </ul>
