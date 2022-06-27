@@ -130,22 +130,22 @@
 	<li>:open_file_folder: Semestrul 5 - Semester 5
 		<ul>
 			<li>
-				<a href=""> 
+				<a href="https://github.com/Alexandru-F1/UBB-LFTC-2021"> 
 				  ❔ Limbaje Formale și Tehnici de Compilare - Formal Languages and Compiler Design ❔
 				</a> 
 			</li>
 			<li>
-				<a href=""> 
+				<a href="https://github.com/Alexandru-F1/UBB-PPD-2021"> 
 				  🗃 Programare Paralelă și Distribuită - Parallel and Distributed Programming 🗃
 				</a>
 			</li>
 			<li>
-				<a href=""> 
+				<a href="https://github.com/Alexandru-F1/UBB-MA-2021"> 
 				  📱 Programare pentru Dispozitive Mobile - Mobile Application Programming 📱
 				</a>
 			</li>
 			<li>
-				<a href=""> 
+				<a href="https://github.com/Alexandru-F1/UBB-SS-2021"> 
 				  🔐 Securitate Software - Software Security 🔐
 				</a>
 			</li>
@@ -154,7 +154,7 @@
 	<li>:open_file_folder: Semestrul 6 - Semester 6
 		<ul>
 			<li>
-				<a href=""> 
+				<a href="https://github.com/Alexandru-F1/UBB-CN-2022"> 
 				  ❤️ Calcul Numeric - Numerical Calculus ❤️
 				</a>
 			</li>
@@ -164,7 +164,7 @@
 				</a>
 			</li>
 			<li>
-				<a href=""> 
+				<a href="https://github.com/Alexandru-F1/UBB-GC-2022"> 
 				  🌲 Grafică pe Calculator - Computer Graphics 🌲
 				</a>
 			</li>
