@@ -154,7 +154,7 @@
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  🌕  Gestiunea proiectelor soft
+				  🌘  Gestiunea proiectelor soft
 				</a>
 			</li>
 			<li>
