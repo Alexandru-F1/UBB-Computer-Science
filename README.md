@@ -1,6 +1,6 @@
 # UBB - Computer-Science - Informatică Română
 <br>
-<a href="http://www.cs.ubbcluj.ro">
+<a href="http://www.cs.ubbcluj.ro/en/">
 <p> Babeş-Bolyai University of Cluj Napoca </p>
 <p> Faculty of Mathematics and Computer Science </p>
 <p> Bachelor’s in Computer Science </p>
