@@ -101,28 +101,28 @@
 	<li>:open_file_folder: Semestrul 4 - Semester 4
 		<ul>
 			<li>
-				<a href=""> 
-				  🐤 Ingineria Sistemelor Soft - Software Engineering 🐤
+				<a href="https://github.com/Alexandru-F1/UBB-ISS-2021"> 
+				  🐤 Ingineria Sistemelor Soft - Software Engineering 🐤 -------
 				</a> 
 			</li>
 			<li>
-				<a href=""> 
-				  👹 Inteligență Artificială - Artificial Intelligence 👹
+				<a href="https://github.com/Alexandru-F1/UBB-AI-2021"> 
+				  👹 Inteligență Artificială - Artificial Intelligence 👹  -------
 				</a>
 			</li>
 			<li>
-				<a href=""> 
-				  📟 Medii de Proiectare și Programare  - Systems for Design and Implementation 📟
+				<a href="https://github.com/Alexandru-F1/UBB-MPP-2021"> 
+				  📟 Medii de Proiectare și Programare  - Systems for Design and Implementation 📟 -------
 				</a>
 			</li>
 			<li>
-				<a href=""> 
-				   🖥 Programare Web - Web Programming 🖥
+				<a href="https://github.com/Alexandru-F1/UBB-WEB-2021"> 
+				   🖥 Programare Web - Web Programming 🖥 -------
 				</a>
 			</li>
 			<li>
-				<a href=""> 
-				  🐿 Sisteme de gestiune a bazelor de date - Database Management Systems 🐿
+				<a href="https://github.com/Alexandru-F1/UBB-SGBD-2021"> 
+				  🐿 Sisteme de gestiune a bazelor de date - Database Management Systems 🐿 -------
 				</a>
 			</li>
 		</ul>
@@ -131,22 +131,22 @@
 		<ul>
 			<li>
 				<a href="https://github.com/Alexandru-F1/UBB-LFTC-2021"> 
-				  ❔ Limbaje Formale și Tehnici de Compilare - Formal Languages and Compiler Design ❔
+				  ❔ Limbaje Formale și Tehnici de Compilare - Formal Languages and Compiler Design ❔ -------
 				</a> 
 			</li>
 			<li>
 				<a href="https://github.com/Alexandru-F1/UBB-PPD-2021"> 
-				  🗃 Programare Paralelă și Distribuită - Parallel and Distributed Programming 🗃
+				  🗃 Programare Paralelă și Distribuită - Parallel and Distributed Programming 🗃 -------
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Alexandru-F1/UBB-MA-2021"> 
-				  📱 Programare pentru Dispozitive Mobile - Mobile Application Programming 📱
+				  📱 Programare pentru Dispozitive Mobile - Mobile Application Programming 📱 -------
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Alexandru-F1/UBB-SS-2021"> 
-				  🔐 Securitate Software - Software Security 🔐
+				  🔐 Securitate Software - Software Security 🔐 -------
 				</a>
 			</li>
 		</ul>
@@ -155,7 +155,7 @@
 		<ul>
 			<li>
 				<a href="https://github.com/Alexandru-F1/UBB-CN-2022"> 
-				  ❤️ Calcul Numeric - Numerical Calculus ❤️
+				  ❤️ Calcul Numeric - Numerical Calculus ❤️ -------
 				</a>
 			</li>
 			<li>
@@ -165,7 +165,7 @@
 			</li>
 			<li>
 				<a href="https://github.com/Alexandru-F1/UBB-GC-2022"> 
-				  🌲 Grafică pe Calculator - Computer Graphics 🌲
+				  🌲 Grafică pe Calculator - Computer Graphics 🌲 -------
 				</a>
 			</li>
 			<li>
