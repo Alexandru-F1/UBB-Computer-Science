@@ -3,7 +3,7 @@
   <li>:open_file_folder: Semester 1
     <ul>
 		<li>
-			<a href=""> 
+			<a href="https://github.com/Pufcorina/Algebra"> 
 			  :clubs:  Algebră liniară 
 			</a>
 		</li>
