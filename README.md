@@ -4,17 +4,17 @@
 		<ul>
 			<li>
 				<a href=""> 
-				  2️⃣  Algebră  
+				  2️⃣  Algebră - Algebra
 				</a>
 			</li>
 			<li>
 				<a href=""> 
-				  ✝️  Analiză matematică
+				  ✝️  Analiză matematică - Mathematical Analysis
 				</a>
 			</li>
 			<li>
 				<a href=""> 
-				  🦖  Arhitectura Sistemelor de Calcul 
+				  🦖  Arhitectura Sistemelor de Calcul - Computer Systems Architecture
 				</a>
 			</li>
 			<li>
@@ -33,12 +33,12 @@
 		<ul>
 			<li>
 				<a href=""> 
-				  🔁  Algoritmica Grafurilor 
+				  🔁  Algoritmica Grafurilor - Graph Algorithms
 				</a>
 			</li>
 			<li>
 				<a href=""> 
-				  📐  Geometrie
+				  📐  Geometrie - Geometry
 				</a>
 			</li>
 			<li>
@@ -48,12 +48,12 @@
 			</li>
 			<li>
 				<a href=""> 
-				  👴🏼  Sisteme de Operare
+				  👴🏼  Sisteme de Operare - Operating systems
 				</a>
 			</li>
 			<li>
 				<a href=""> 
-				  🔟  Sisteme Dinamice 
+				  🔟  Sisteme Dinamice - Dynamic Systems
 				</a>
 			</li>
 			<li>
@@ -140,7 +140,7 @@
 			</li>
 			<li>
 				<a href=""> 
-				  🔐  Securitate Software
+				  🔐  Securitate Software - Software Security
 				</a>
 			</li>
 		</ul>
@@ -149,17 +149,17 @@
 		<ul>
 			<li>
 				<a href=""> 
-				  ❤️  Calcul numeric - Numerical Calculus
+				  ❤️  Calcul Numeric - Numerical Calculus
 				</a>
 			</li>
 			<li>
 				<a href=""> 
-				  🌘  Gestiunea proiectelor soft
+				  🌘  Gestiunea Proiectelor Soft - Software Project Management
 				</a>
 			</li>
 			<li>
 				<a href=""> 
-				  🌲  Grafică pe calculator 
+				  🌲  Grafică pe Calculator - Computer Graphics
 				</a>
 			</li>
 			<li>
