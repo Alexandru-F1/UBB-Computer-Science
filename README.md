@@ -3,8 +3,8 @@
 <p> Babeş-Bolyai University of Cluj Napoca - Faculty of Mathematics and Computer Science </p>
 <p> Bachelor’s in Computer Science </p>
 </a>
-<br>This repository contains the courses I took and the projects I created within the Faculty of Computer Science.</br>
-<br>Acest repository conține cursurile pe care le-am urmat și proiectele pe care le-am creat în cadrul Facultății de Informatică.</br>
+This repository contains the courses I took and the projects I created within the Faculty of Computer Science.
+Acest repository conține cursurile pe care le-am urmat și proiectele pe care le-am creat în cadrul Facultății de Informatică.
 <br>
 <br>
 <ul>
