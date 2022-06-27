@@ -1,4 +1,12 @@
 # UBB - Computer-Science - Informatică Română
+<br>
+<img src="http://www.chem.ubbcluj.ro/romana/conferinte/MEEMB/archive/pictures/ubb.gif" />
+<a href="http://www.cs.ubbcluj.ro">
+<p> Babeş-Bolyai University of Cluj Napoca </p>
+<p> Faculty of Mathematics and Computer Science </p>
+<p> Bachelor’s in Computer Science </p>
+</a>
+<br>
 <ul>
 	<li>:open_file_folder: Semestrul 1 - Semester 1
 		<ul>
