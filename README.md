@@ -4,17 +4,17 @@
 		<ul>
 			<li>
 				<a href=""> 
-				  2️⃣  Algebră - Algebra
+				  2️⃣  Algebră - Algebra 2️⃣ 
 				</a>
 			</li>
 			<li>
 				<a href=""> 
-				  ✝️  Analiză matematică - Mathematical Analysis
+				  ✝️  Analiză matematică - Mathematical Analysis ✝️
 				</a>
 			</li>
 			<li>
 				<a href=""> 
-				  🦖  Arhitectura Sistemelor de Calcul - Computer Systems Architecture
+				  🦖  Arhitectura Sistemelor de Calcul - Computer Systems Architecture 🦖
 				</a>
 			</li>
 			<li>
