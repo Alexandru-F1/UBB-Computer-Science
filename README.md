@@ -1,6 +1,38 @@
-# UBB-Computer-Science
+# UBB
 <ul>
-   <li>:open_file_folder: Semestrul 1
-   </li>
-  
+  <li>:open_file_folder: Semester 1
+    <ul>
+		<li>
+			<a href=""> 
+			  :clubs:  Algebră liniară 
+			</a>
+		</li>
+		
+		<li>
+			<a href=""> 
+			  :clubs:  Analiză 
+			</a>
+		</li>
+		
+		<li>
+			<a href=""> 
+			  :clubs:  Arhitectura sistemelor de calcul 
+			</a>
+		</li>
+		
+		<li>
+			<a href=""> 
+			  :clubs:  Fundamentele programării
+			</a>
+		</li>
+     
+		<li>
+			<a href=""> 
+			  :clubs:  Logică Computațională
+			</a>
+		</li>
+	
+    </ul>
+  </li>
+ 
 </ul>
