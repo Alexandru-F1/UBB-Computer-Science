@@ -4,7 +4,7 @@
 <p> Bachelor’s in Computer Science </p>
 </a>
 <br>
-	Acest
+Acest repository contine cursurile pe care le-am urmat la Facultatea de Informatica din cadrul Unioversitatii Babeş-Bolyai.
 <br>
 <ul>
 	<li>:open_file_folder: Semestrul 1 - Semester 1
