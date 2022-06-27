@@ -4,7 +4,9 @@
 <p> Bachelor’s in Computer Science </p>
 </a>
 <br>
-Acest repository contine cursurile pe care le-am urmat la Facultatea de Informatica din cadrul Unioversitatii Babeş-Bolyai.
+This repository contains the courses I took and the projects I created within the Faculty of Computer Science.
+<br>
+Acest repository conține cursurile pe care le-am urmat și proiectele pe care le-am creat în cadrul Facultății de Informatică.
 <br>
 <ul>
 	<li>:open_file_folder: Semestrul 1 - Semester 1
