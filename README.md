@@ -106,7 +106,7 @@
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Medii de Proiectare și Programare 
+				  &#129497  Medii de Proiectare și Programare 
 				</a>
 			</li>
 			<li>
