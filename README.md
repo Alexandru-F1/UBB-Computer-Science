@@ -5,6 +5,8 @@
 </a>
 <br>This repository contains the courses I took and the projects I created within the Faculty of Computer Science.</br>
 <br>Acest repository conține cursurile pe care le-am urmat și proiectele pe care le-am creat în cadrul Facultății de Informatică.</br>
+<br>
+<br>
 <ul>
 	<li>:open_file_folder: Semestrul 1 - Semester 1
 		<ul>
