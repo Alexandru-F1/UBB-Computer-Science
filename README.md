@@ -33,32 +33,32 @@
 		<ul>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Algoritmica Grafurilor 
+				  🔁  Algoritmica Grafurilor 
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Geometrie
+				  📐  Geometrie
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Programare Orientată Obiect(OOP)
+				  💨  Programare Orientată Obiect(OOP)
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Sisteme de Operare
+				  👴🏼  Sisteme de Operare
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Sisteme Dinamice 
+				  🔟  Sisteme Dinamice 
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Structuri de Date și Algoritmi
+				  🐘  Structuri de Date și Algoritmi
 				</a>
 			</li>
 		</ul>
