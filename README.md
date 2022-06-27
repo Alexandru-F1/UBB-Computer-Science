@@ -4,6 +4,7 @@
 <p> Bachelor’s in Computer Science </p>
 </a>
 <br>
+Acest
 <ul>
 	<li>:open_file_folder: Semestrul 1 - Semester 1
 		<ul>
