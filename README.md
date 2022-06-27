@@ -19,12 +19,12 @@
 			</li>
 			<li>
 				<a href=""> 
-				  🐍  Fundamentele Programării
+				  🐍  Fundamentele Programării - Fundamental of Programming
 				</a>
 			</li>
 			<li>
 				<a href=""> 
-				  💤  Logică Computațională
+				  💤  Logică Computațională - Computational Logic
 				</a>
 			</li>
 		</ul>
@@ -43,7 +43,7 @@
 			</li>
 			<li>
 				<a href=""> 
-				  🚬  Programare Orientată Obiect(OOP)
+				  🚬  Programare Orientată Obiect(POO) - Object Oriented Programming(OOP)
 				</a>
 			</li>
 			<li>
@@ -58,7 +58,7 @@
 			</li>
 			<li>
 				<a href=""> 
-				  🐘  Structuri de Date și Algoritmi
+				  🐘  Structuri de Date și Algoritmi - Data Structures and Algorithms
 				</a>
 			</li>
 		</ul>
@@ -67,27 +67,27 @@
 		<ul>
 			<li>
 				<a href=""> 
-				  ⚒  Baze de Date
+				  ⚒  Baze de Date - Databases
 				</a>
 			</li>
 			<li>
 				<a href=""> 
-				  👩🏼‍💻  Metode Avansate de Programare
+				  👩🏼‍💻  Metode Avansate de Programare - Advanced Methods of Programming
 				</a>
 			</li>
 			<li>
 				<a href=""> 
-				  📊  Probabilități și statistică
+				  📊  Probabilități și statistică - Probability and Statistics
 				</a>
 			</li>
 			<li>
 				<a href=""> 
-				  🧮  Programare Logică și Funcțională
+				  🧮  Programare Logică și Funcțională - Functional and Logic Programming
 				</a>
 			</li>
 			<li>
 				<a href=""> 
-				  🛰  Rețele de Calculatoare
+				  🛰  Rețele de Calculatoare - Computer Networks
 				</a>
 			</li>
 		</ul>
@@ -96,27 +96,27 @@
 		<ul>
 			<li>
 				<a href=""> 
-				  🐤  Ingineria Sistemelor Soft 
+				  🐤  Ingineria Sistemelor Soft - Software Engineering
+				</a> 
+			</li>
+			<li>
+				<a href=""> 
+				  👹  Inteligență Artificială - Artificial Intelligence
 				</a>
 			</li>
 			<li>
 				<a href=""> 
-				  👹  Inteligență Artificială
+				  📟  Medii de Proiectare și Programare  - Systems for Design and Implementation
 				</a>
 			</li>
 			<li>
 				<a href=""> 
-				  📟  Medii de Proiectare și Programare 
+				   🖥  Programare Web - Web Programming
 				</a>
 			</li>
 			<li>
 				<a href=""> 
-				   🖥  Programare Web
-				</a>
-			</li>
-			<li>
-				<a href=""> 
-				  🐿  Sisteme de gestiune a bazelor de date
+				  🐿  Sisteme de gestiune a bazelor de date - Database Management Systems
 				</a>
 			</li>
 		</ul>
@@ -125,17 +125,17 @@
 		<ul>
 			<li>
 				<a href=""> 
-				  ❔  Limbaje Formale și Tehnici de Compilare
+				  ❔  Limbaje Formale și Tehnici de Compilare - Formal Languages and Compiler Design
 				</a>
 			</li>
 			<li>
 				<a href=""> 
-				  🗃  Programare Paralelă și Distribuită
+				  🗃  Programare Paralelă și Distribuită - Parallel and Distributed Programming
 				</a>
 			</li>
 			<li>
 				<a href=""> 
-				  📱  Programare pentru Dispozitive Mobile
+				  📱  Programare pentru Dispozitive Mobile - Mobile Application Programming
 				</a>
 			</li>
 			<li>
@@ -149,7 +149,7 @@
 		<ul>
 			<li>
 				<a href=""> 
-				  ❤️  Calcul numeric 
+				  ❤️  Calcul numeric - Numerical Calculus
 				</a>
 			</li>
 			<li>
@@ -164,7 +164,7 @@
 			</li>
 			<li>
 				<a href=""> 
-				  🦦  Verificarea şi validarea sistemelor soft
+				  🦦  Verificarea şi validarea sistemelor soft - Software Systems Verification and Validation
 				</a>
 			</li>
 		</ul>
