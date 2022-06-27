@@ -4,22 +4,22 @@
 		<ul>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Algebră liniară 
+				  :clubs:  Algebră  
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Analiză 
+				  :clubs:  Analiză matematică
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Arhitectura sistemelor de calcul 
+				  :clubs:  Arhitectura Sistemelor de Calcul 
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Fundamentele programării
+				  :clubs:  Fundamentele Programării
 				</a>
 			</li>
 			<li>
@@ -38,7 +38,17 @@
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
+				  :clubs:  Geometrie
+				</a>
+			</li>
+			<li>
+				<a href="https://github.com/Pufcorina/Algebra"> 
 				  :clubs:  Programare Orientată Obiect(OOP)
+				</a>
+			</li>
+			<li>
+				<a href="https://github.com/Pufcorina/Algebra"> 
+				  :clubs:  Sisteme de Operare
 				</a>
 			</li>
 			<li>
@@ -48,7 +58,7 @@
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Structuri de date și algoritmi
+				  :clubs:  Structuri de Date și Algoritmi
 				</a>
 			</li>
 		</ul>
@@ -57,22 +67,27 @@
 		<ul>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Algoritmica Grafurilor 
+				  :clubs:  Baze de Date
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Programare Orientată Obiect(OOP)
+				  :clubs:  Metode Avansate de Programare
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Sisteme Dinamice 
+				  :clubs:  Probabilități și statistică
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Structuri de date și algoritmi
+				  :clubs:  Programare Logică și Funcțională
+				</a>
+			</li>
+			<li>
+				<a href="https://github.com/Pufcorina/Algebra"> 
+				  :clubs:  Rețele de Calculatoare
 				</a>
 			</li>
 		</ul>
@@ -81,22 +96,27 @@
 		<ul>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Algoritmica Grafurilor 
+				  :clubs:  Ingineria Sistemelor Soft 
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Programare Orientată Obiect(OOP)
+				  :clubs:  Inteligență Artificială
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Sisteme Dinamice 
+				  :clubs:  Medii de Proiectare și Programare 
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Structuri de date și algoritmi
+				  :clubs:  Programare Web
+				</a>
+			</li>
+			<li>
+				<a href="https://github.com/Pufcorina/Algebra"> 
+				  :clubs:  Sisteme de gestiune a bazelor de date
 				</a>
 			</li>
 		</ul>
@@ -105,22 +125,22 @@
 		<ul>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Algoritmica Grafurilor 
+				  :clubs:  Limbaje Formale și Tehnici de Compilare
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Programare Orientată Obiect(OOP)
+				  :clubs:  Programare Paralelă și Distribuită
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Sisteme Dinamice 
+				  :clubs:  Programare pentru Dispozitive Mobile
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Structuri de date și algoritmi
+				  :clubs:  Securitate Software
 				</a>
 			</li>
 		</ul>
@@ -129,22 +149,22 @@
 		<ul>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Algoritmica Grafurilor 
+				  :clubs:  Calcul numeric 
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Programare Orientată Obiect(OOP)
+				  :clubs:  Gestiunea proiectelor soft
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Sisteme Dinamice 
+				  :clubs:  Grafică pe calculator 
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Structuri de date și algoritmi
+				  :clubs:  Verificarea şi validarea sistemelor soft
 				</a>
 			</li>
 		</ul>
