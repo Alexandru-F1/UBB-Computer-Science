@@ -9,7 +9,7 @@
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  U+262A  Analiză matematică
+				  ✝️  Analiză matematică
 				</a>
 			</li>
 			<li>
