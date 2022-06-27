@@ -1,6 +1,6 @@
 # UBB - Computer-Science - Informatică Română
 <ul>
-	<li>:open_file_folder: Semestrul 1
+	<li>:open_file_folder: Semestrul 1 - Semester 1
 		<ul>
 			<li>
 				<a href=""> 
@@ -29,7 +29,7 @@
 			</li>
 		</ul>
 	</li>
-	<li>:open_file_folder: Semestrul 2
+	<li>:open_file_folder: Semestrul 2 - Semester 2
 		<ul>
 			<li>
 				<a href=""> 
@@ -63,7 +63,7 @@
 			</li>
 		</ul>
 	</li>
-	<li>:open_file_folder: Semestrul 3
+	<li>:open_file_folder: Semestrul 3 - Semester 3
 		<ul>
 			<li>
 				<a href=""> 
@@ -92,7 +92,7 @@
 			</li>
 		</ul>
 	</li>
-	<li>:open_file_folder: Semestrul 4
+	<li>:open_file_folder: Semestrul 4 - Semester 4
 		<ul>
 			<li>
 				<a href=""> 
@@ -121,7 +121,7 @@
 			</li>
 		</ul>
 	</li>
-	<li>:open_file_folder: Semestrul 5
+	<li>:open_file_folder: Semestrul 5 - Semester 5
 		<ul>
 			<li>
 				<a href=""> 
@@ -145,7 +145,7 @@
 			</li>
 		</ul>
 	</li>
-	<li>:open_file_folder: Semestrul 6
+	<li>:open_file_folder: Semestrul 6 - Semester 6
 		<ul>
 			<li>
 				<a href=""> 
