@@ -43,7 +43,7 @@
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  💨  Programare Orientată Obiect(OOP)
+				  🚬  Programare Orientată Obiect(OOP)
 				</a>
 			</li>
 			<li>
@@ -67,27 +67,27 @@
 		<ul>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Baze de Date
+				  ⚒  Baze de Date
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Metode Avansate de Programare
+				  👩🏼‍💻  Metode Avansate de Programare
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Probabilități și statistică
+				  📊  Probabilități și statistică
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Programare Logică și Funcțională
+				  🧮  Programare Logică și Funcțională
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Rețele de Calculatoare
+				  🛰  Rețele de Calculatoare
 				</a>
 			</li>
 		</ul>
@@ -96,27 +96,27 @@
 		<ul>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Ingineria Sistemelor Soft 
+				  🐤  Ingineria Sistemelor Soft 
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Inteligență Artificială
+				  👹  Inteligență Artificială
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  &#129497  Medii de Proiectare și Programare 
+				  📟  Medii de Proiectare și Programare 
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Programare Web
+				   🖥  Programare Web
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Sisteme de gestiune a bazelor de date
+				  🐿  Sisteme de gestiune a bazelor de date
 				</a>
 			</li>
 		</ul>
@@ -125,22 +125,22 @@
 		<ul>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Limbaje Formale și Tehnici de Compilare
+				  ❔  Limbaje Formale și Tehnici de Compilare
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Programare Paralelă și Distribuită
+				  🗃  Programare Paralelă și Distribuită
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Programare pentru Dispozitive Mobile
+				  📱  Programare pentru Dispozitive Mobile
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Securitate Software
+				  🔐  Securitate Software
 				</a>
 			</li>
 		</ul>
@@ -149,22 +149,22 @@
 		<ul>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Calcul numeric 
+				  ❤️  Calcul numeric 
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Gestiunea proiectelor soft
+				  🌕  Gestiunea proiectelor soft
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Grafică pe calculator 
+				  🌲  Grafică pe calculator 
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Pufcorina/Algebra"> 
-				  :clubs:  Verificarea şi validarea sistemelor soft
+				  🦦  Verificarea şi validarea sistemelor soft
 				</a>
 			</li>
 		</ul>
