@@ -13,27 +13,27 @@ Acest repository conține cursurile pe care le-am urmat și proiectele pe care l
 		<ul>
 			<li>
 				<a href="https://github.com/Alexandru-F1/UBB-Alg-2019"> 
-				  2️⃣ Algebră - Algebra 2️⃣  -------
+				  2️⃣ Algebră - Algebra 2️⃣
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Alexandru-F1/UBB-AM-2019"> 
-				  ✝️ Analiză matematică - Mathematical Analysis ✝️ -------
+				  ✝️ Analiză matematică - Mathematical Analysis ✝️
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Alexandru-F1/UBB-ASC-2019"> 
-				  🦖 Arhitectura Sistemelor de Calcul - Computer Systems Architecture 🦖 -------
+				  🦖 Arhitectura Sistemelor de Calcul - Computer Systems Architecture 🦖
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Alexandru-F1/UBB-FP-2019"> 
-				  🐍 Fundamentele Programării - Fundamental of Programming 🐍 -------
+				  🐍 Fundamentele Programării - Fundamental of Programming 🐍
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Alexandru-F1/UBB-LC-2019"> 
-				  💤 Logică Computațională - Computational Logic 💤 -------
+				  💤 Logică Computațională - Computational Logic 💤
 				</a>
 			</li>
 		</ul>
@@ -42,32 +42,32 @@ Acest repository conține cursurile pe care le-am urmat și proiectele pe care l
 		<ul>
 			<li>
 				<a href="https://github.com/Alexandru-F1/UBB-AG-2020"> 
-				  🔁 Algoritmica Grafurilor - Graph Algorithms 🔁 -------
+				  🔁 Algoritmica Grafurilor - Graph Algorithms 🔁
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Alexandru-F1/UBB-Geo-2020"> 
-				  📐 Geometrie - Geometry 📐 -------
+				  📐 Geometrie - Geometry 📐
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Alexandru-F1/UBB-OOP-2020"> 
-				  🚬 Programare Orientată Obiect(POO) - Object Oriented Programming(OOP) 🚬 -------
+				  🚬 Programare Orientată Obiect(POO) - Object Oriented Programming(OOP) 🚬
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Alexandru-F1/UBB-OS-2020"> 
-				  👴🏼 Sisteme de Operare - Operating systems 👴🏼 -------
+				  👴🏼 Sisteme de Operare - Operating systems 👴🏼
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Alexandru-F1/UBB-SD-2020"> 
-				  🔟 Sisteme Dinamice - Dynamic Systems 🔟 -------
+				  🔟 Sisteme Dinamice - Dynamic Systems 🔟
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Alexandru-F1/UBB-SDA-2020"> 
-				  🐘 Structuri de Date și Algoritmi - Data Structures and Algorithms 🐘 -------
+				  🐘 Structuri de Date și Algoritmi - Data Structures and Algorithms 🐘
 				</a>
 			</li>
 		</ul>
