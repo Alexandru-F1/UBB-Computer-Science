@@ -12,28 +12,28 @@ Acest repository conține cursurile pe care le-am urmat și proiectele pe care l
 	<li>:open_file_folder: Semestrul 1 - Semester 1
 		<ul>
 			<li>
-				<a href=""> 
-				  2️⃣ Algebră - Algebra 2️⃣ 
+				<a href="https://github.com/Alexandru-F1/UBB-Alg-2019"> 
+				  2️⃣ Algebră - Algebra 2️⃣  -------
 				</a>
 			</li>
 			<li>
-				<a href=""> 
-				  ✝️ Analiză matematică - Mathematical Analysis ✝️
+				<a href="https://github.com/Alexandru-F1/UBB-AM-2019"> 
+				  ✝️ Analiză matematică - Mathematical Analysis ✝️ -------
 				</a>
 			</li>
 			<li>
-				<a href=""> 
-				  🦖 Arhitectura Sistemelor de Calcul - Computer Systems Architecture 🦖
+				<a href="https://github.com/Alexandru-F1/UBB-ASC-2019"> 
+				  🦖 Arhitectura Sistemelor de Calcul - Computer Systems Architecture 🦖 -------
 				</a>
 			</li>
 			<li>
-				<a href=""> 
-				  🐍 Fundamentele Programării - Fundamental of Programming 🐍
+				<a href="https://github.com/Alexandru-F1/UBB-FP-2019"> 
+				  🐍 Fundamentele Programării - Fundamental of Programming 🐍 -------
 				</a>
 			</li>
 			<li>
-				<a href=""> 
-				  💤 Logică Computațională - Computational Logic 💤
+				<a href="https://github.com/Alexandru-F1/UBB-LC-2019"> 
+				  💤 Logică Computațională - Computational Logic 💤 -------
 				</a>
 			</li>
 		</ul>
@@ -41,33 +41,33 @@ Acest repository conține cursurile pe care le-am urmat și proiectele pe care l
 	<li>:open_file_folder: Semestrul 2 - Semester 2
 		<ul>
 			<li>
-				<a href=""> 
-				  🔁 Algoritmica Grafurilor - Graph Algorithms 🔁
+				<a href="https://github.com/Alexandru-F1/UBB-AG-2020"> 
+				  🔁 Algoritmica Grafurilor - Graph Algorithms 🔁 -------
 				</a>
 			</li>
 			<li>
-				<a href=""> 
-				  📐 Geometrie - Geometry 📐
+				<a href="https://github.com/Alexandru-F1/UBB-Geo-2020"> 
+				  📐 Geometrie - Geometry 📐 -------
 				</a>
 			</li>
 			<li>
-				<a href=""> 
-				  🚬 Programare Orientată Obiect(POO) - Object Oriented Programming(OOP) 🚬
+				<a href="https://github.com/Alexandru-F1/UBB-OOP-2020"> 
+				  🚬 Programare Orientată Obiect(POO) - Object Oriented Programming(OOP) 🚬 -------
 				</a>
 			</li>
 			<li>
-				<a href=""> 
-				  👴🏼 Sisteme de Operare - Operating systems 👴🏼
+				<a href="https://github.com/Alexandru-F1/UBB-OS-2020"> 
+				  👴🏼 Sisteme de Operare - Operating systems 👴🏼 -------
 				</a>
 			</li>
 			<li>
-				<a href=""> 
-				  🔟 Sisteme Dinamice - Dynamic Systems 🔟
+				<a href="https://github.com/Alexandru-F1/UBB-SD-2020"> 
+				  🔟 Sisteme Dinamice - Dynamic Systems 🔟 -------
 				</a>
 			</li>
 			<li>
-				<a href=""> 
-				  🐘 Structuri de Date și Algoritmi - Data Structures and Algorithms 🐘
+				<a href="https://github.com/Alexandru-F1/UBB-SDA-2020"> 
+				  🐘 Structuri de Date și Algoritmi - Data Structures and Algorithms 🐘 -------
 				</a>
 			</li>
 		</ul>
@@ -75,28 +75,28 @@ Acest repository conține cursurile pe care le-am urmat și proiectele pe care l
 	<li>:open_file_folder: Semestrul 3 - Semester 3
 		<ul>
 			<li>
-				<a href=""> 
-				  ⚒ Baze de Date - Databases ⚒
+				<a href="https://github.com/Alexandru-F1/UBB-DB-2020"> 
+				  ⚒ Baze de Date - Databases ⚒ -------
 				</a>
 			</li>
 			<li>
-				<a href=""> 
-				  👩🏼‍💻 Metode Avansate de Programare - Advanced Methods of Programming 👩🏼‍💻
+				<a href="https://github.com/Alexandru-F1/UBB-MAP-2020"> 
+				  👩🏼‍💻 Metode Avansate de Programare - Advanced Methods of Programming 👩🏼‍💻 -------
 				</a>
 			</li>
 			<li>
-				<a href=""> 
-				  📊 Probabilități și statistică - Probability and Statistics 📊
+				<a href="https://github.com/Alexandru-F1/UBB-PS-2020"> 
+				  📊 Probabilități și statistică - Probability and Statistics 📊 -------
 				</a>
 			</li>
 			<li>
-				<a href=""> 
-				  🧮 Programare Logică și Funcțională - Functional and Logic Programming 🧮
+				<a href="https://github.com/Alexandru-F1/UBB-PLF-2020"> 
+				  🧮 Programare Logică și Funcțională - Functional and Logic Programming 🧮 -------
 				</a>
 			</li>
 			<li>
-				<a href=""> 
-				  🛰 Rețele de Calculatoare - Computer Networks 🛰
+				<a href="https://github.com/Alexandru-F1/UBB-RC-2020"> 
+				  🛰 Rețele de Calculatoare - Computer Networks 🛰 -------
 				</a>
 			</li>
 		</ul>
