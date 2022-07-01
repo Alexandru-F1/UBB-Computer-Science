@@ -76,27 +76,27 @@ Acest repository conține cursurile pe care le-am urmat și proiectele pe care l
 		<ul>
 			<li>
 				<a href="https://github.com/Alexandru-F1/UBB-DB-2020"> 
-				  ⚒ Baze de Date - Databases ⚒ -------
+				  ⚒ Baze de Date - Databases ⚒
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Alexandru-F1/UBB-MAP-2020"> 
-				  👩🏼‍💻 Metode Avansate de Programare - Advanced Methods of Programming 👩🏼‍💻 -------
+				  👩🏼‍💻 Metode Avansate de Programare - Advanced Methods of Programming 👩🏼‍💻
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Alexandru-F1/UBB-PS-2020"> 
-				  📊 Probabilități și statistică - Probability and Statistics 📊 -------
+				  📊 Probabilități și statistică - Probability and Statistics 📊
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Alexandru-F1/UBB-PLF-2020"> 
-				  🧮 Programare Logică și Funcțională - Functional and Logic Programming 🧮 -------
+				  🧮 Programare Logică și Funcțională - Functional and Logic Programming 🧮
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Alexandru-F1/UBB-RC-2020"> 
-				  🛰 Rețele de Calculatoare - Computer Networks 🛰 -------
+				  🛰 Rețele de Calculatoare - Computer Networks 🛰
 				</a>
 			</li>
 		</ul>
@@ -105,27 +105,27 @@ Acest repository conține cursurile pe care le-am urmat și proiectele pe care l
 		<ul>
 			<li>
 				<a href="https://github.com/Alexandru-F1/UBB-ISS-2021"> 
-				  🐤 Ingineria Sistemelor Soft - Software Engineering 🐤 -------
+				  🐤 Ingineria Sistemelor Soft - Software Engineering 🐤
 				</a> 
 			</li>
 			<li>
 				<a href="https://github.com/Alexandru-F1/UBB-AI-2021"> 
-				  👹 Inteligență Artificială - Artificial Intelligence 👹  -------
+				  👹 Inteligență Artificială - Artificial Intelligence 👹
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Alexandru-F1/UBB-MPP-2021"> 
-				  📟 Medii de Proiectare și Programare  - Systems for Design and Implementation 📟 -------
+				  📟 Medii de Proiectare și Programare  - Systems for Design and Implementation 📟
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Alexandru-F1/UBB-WEB-2021"> 
-				   🖥 Programare Web - Web Programming 🖥 -------
+				   🖥 Programare Web - Web Programming 🖥
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Alexandru-F1/UBB-SGBD-2021"> 
-				  🐿 Sisteme de gestiune a bazelor de date - Database Management Systems 🐿 -------
+				  🐿 Sisteme de gestiune a bazelor de date - Database Management Systems 🐿
 				</a>
 			</li>
 		</ul>
@@ -134,22 +134,22 @@ Acest repository conține cursurile pe care le-am urmat și proiectele pe care l
 		<ul>
 			<li>
 				<a href="https://github.com/Alexandru-F1/UBB-LFTC-2021"> 
-				  ❔ Limbaje Formale și Tehnici de Compilare - Formal Languages and Compiler Design ❔ -------
+				  ❔ Limbaje Formale și Tehnici de Compilare - Formal Languages and Compiler Design ❔
 				</a> 
 			</li>
 			<li>
 				<a href="https://github.com/Alexandru-F1/UBB-PPD-2021"> 
-				  🗃 Programare Paralelă și Distribuită - Parallel and Distributed Programming 🗃 -------
+				  🗃 Programare Paralelă și Distribuită - Parallel and Distributed Programming 🗃
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Alexandru-F1/UBB-MA-2021"> 
-				  📱 Programare pentru Dispozitive Mobile - Mobile Application Programming 📱 -------
+				  📱 Programare pentru Dispozitive Mobile - Mobile Application Programming 📱
 				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Alexandru-F1/UBB-SS-2021"> 
-				  🔐 Securitate Software - Software Security 🔐 -------
+				  🔐 Securitate Software - Software Security 🔐
 				</a>
 			</li>
 		</ul>
@@ -158,7 +158,7 @@ Acest repository conține cursurile pe care le-am urmat și proiectele pe care l
 		<ul>
 			<li>
 				<a href="https://github.com/Alexandru-F1/UBB-CN-2022"> 
-				  ❤️ Calcul Numeric - Numerical Calculus ❤️ -------
+				  ❤️ Calcul Numeric - Numerical Calculus ❤️
 				</a>
 			</li>
 			<li>
@@ -168,7 +168,7 @@ Acest repository conține cursurile pe care le-am urmat și proiectele pe care l
 			</li>
 			<li>
 				<a href="https://github.com/Alexandru-F1/UBB-GC-2022"> 
-				  🌲 Grafică pe Calculator - Computer Graphics 🌲 -------
+				  🌲 Grafică pe Calculator - Computer Graphics 🌲
 				</a>
 			</li>
 			<li>
