@@ -162,9 +162,7 @@ Acest repository conține cursurile pe care le-am urmat și proiectele pe care l
 				</a>
 			</li>
 			<li>
-				<a href=""> 
 				  🌘 Gestiunea Proiectelor Soft - Software Project Management 🌘
-				</a>
 			</li>
 			<li>
 				<a href="https://github.com/Alexandru-F1/UBB-GC-2022"> 
@@ -172,9 +170,7 @@ Acest repository conține cursurile pe care le-am urmat și proiectele pe care l
 				</a>
 			</li>
 			<li>
-				<a href=""> 
 				  🦦 Verificarea şi validarea sistemelor soft - Software Systems Verification and Validation 🦦
-				</a>
 			</li>
 		</ul>
 	</li>
